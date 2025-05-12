@@ -3,7 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<prashant-018>.github.io/<Product-pages.Vanilla>",
+ "homepage": "https://prashant-018.github.io/Product-pages.Vanilla"
+,
   "scripts": {
     "dev": "vite",
     "build": "vite build",
